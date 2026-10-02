@@ -1,0 +1,3 @@
+events compared: 240
+mismatches: 0
+exact agreement: indexed engine and brute-force oracle agree on all 240 events

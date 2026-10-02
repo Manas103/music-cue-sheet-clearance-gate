@@ -1,0 +1,41 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.10, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\Manas\Downloads\Total Job Application process flow\projects\music-cue-sheet-clearance-gate\venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\Manas\Downloads\Total Job Application process flow
+configfile: pytest.ini
+collecting ... collected 32 items
+
+tests\test_db.py::test_license_insert_and_fetch_round_trip PASSED        [  3%]
+tests\test_db.py::test_episode_and_event_insert_and_fetch_round_trip PASSED [  6%]
+tests\test_db.py::test_reset_db_clears_all_tables PASSED                 [  9%]
+tests\test_export.py::test_cue_sheet_has_exactly_12_named_fields PASSED  [ 12%]
+tests\test_export.py::test_cue_sheet_row_count_equals_music_event_count PASSED [ 15%]
+tests\test_export.py::test_refused_episode_exports_marked_placeholder_not_a_cue_sheet PASSED [ 18%]
+tests\test_export.py::test_all_40_clean_episodes_export_12_column_cue_sheets PASSED [ 21%]
+tests\test_gate_scale.py::test_dataset_shape_is_60_episodes_40_seeded_defects_across_20_episodes PASSED [ 25%]
+tests\test_gate_scale.py::test_40_of_40_seeded_defects_caught_naming_cue_and_reason PASSED [ 28%]
+tests\test_gate_scale.py::test_0_false_holds_across_40_clean_episodes PASSED [ 31%]
+tests\test_gate_scale.py::test_refused_episode_raises_via_strict_entry_point PASSED [ 34%]
+tests\test_gate_scale.py::test_passed_episode_does_not_raise_via_strict_entry_point PASSED [ 37%]
+tests\test_invariants.py::test_every_event_share_percentages_sum_to_100 PASSED [ 40%]
+tests\test_invariants.py::test_every_event_out_timecode_is_after_in_timecode PASSED [ 43%]
+tests\test_invariants.py::test_every_episode_has_exactly_4_music_events PASSED [ 46%]
+tests\test_invariants.py::test_defect_episodes_have_exactly_2_seeded_defects_and_2_clean_events PASSED [ 50%]
+tests\test_invariants.py::test_license_term_start_is_never_after_term_end PASSED [ 53%]
+tests\test_oracle_diff.py::test_engine_and_oracle_agree_on_every_event PASSED [ 56%]
+tests\test_reconcile.py::test_exact_match_is_covered PASSED              [ 59%]
+tests\test_reconcile.py::test_air_date_on_term_start_boundary_is_covered PASSED [ 62%]
+tests\test_reconcile.py::test_air_date_on_term_end_boundary_is_covered PASSED [ 65%]
+tests\test_reconcile.py::test_air_date_one_day_after_term_end_is_expired PASSED [ 68%]
+tests\test_reconcile.py::test_air_date_one_day_before_term_start_is_not_yet_effective PASSED [ 71%]
+tests\test_reconcile.py::test_no_license_for_library_usage_key_at_all PASSED [ 75%]
+tests\test_reconcile.py::test_world_license_covers_any_event_territory PASSED [ 78%]
+tests\test_reconcile.py::test_us_only_license_does_not_cover_world_event PASSED [ 81%]
+tests\test_reconcile.py::test_us_canada_license_covers_us_but_not_world PASSED [ 84%]
+tests\test_reconcile.py::test_broadcast_only_license_does_not_cover_all_media_event PASSED [ 87%]
+tests\test_reconcile.py::test_all_media_license_covers_broadcast_only_event PASSED [ 90%]
+tests\test_reconcile.py::test_pro_mismatch PASSED                        [ 93%]
+tests\test_reconcile.py::test_multiple_candidates_same_key_one_covers PASSED [ 96%]
+tests\test_reconcile.py::test_multiple_candidates_same_key_none_covers_reports_closest PASSED [100%]
+
+============================= 32 passed in 0.84s ==============================

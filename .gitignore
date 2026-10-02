@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Generated at build/run time; regenerate with:
+#   python scripts/build_database.py
+#   python scripts/run_gate_over_all_episodes.py
+#   python scripts/run_demo.py
+data/cue_sheet_gate.db
+data/cue_sheets/
+data/demo/
+data/tmp/
+data/_benchmark_sample.xlsx

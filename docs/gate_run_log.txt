@@ -1,0 +1,103 @@
+episode   1 (Episode 1): REFUSED
+    cue 'Night Freight (cue 0003)': no license record found
+    cue 'Slow Burn Approach (cue 0004)': license expired before air date
+episode   2 (Episode 2): REFUSED
+    cue 'Fog Line (cue 0007)': license not yet effective on air date
+    cue 'Midnight Skyline (cue 0008)': wrong territory
+episode   3 (Episode 3): PASSED, cue sheet written to ..\data\cue_sheets\episode_003.xlsx
+episode   4 (Episode 4): REFUSED
+    cue 'Quiet Harbor (cue 0015)': wrong media type
+    cue 'Dead Reckoning (cue 0016)': performing-rights organization mismatch
+episode   5 (Episode 5): PASSED, cue sheet written to ..\data\cue_sheets\episode_005.xlsx
+episode   6 (Episode 6): REFUSED
+    cue 'Glass Pier (cue 0023)': no license record found
+    cue 'Midnight Skyline (cue 0024)': license expired before air date
+episode   7 (Episode 7): REFUSED
+    cue 'Slow Burn Approach (cue 0027)': license not yet effective on air date
+    cue 'Copper Light (cue 0028)': wrong territory
+episode   8 (Episode 8): REFUSED
+    cue 'Copper Light (cue 0031)': wrong media type
+    cue 'Second Shift (cue 0032)': performing-rights organization mismatch
+episode   9 (Episode 9): REFUSED
+    cue 'Switchyard (cue 0035)': no license record found
+    cue 'Chrome and Rain (cue 0036)': license expired before air date
+episode  10 (Episode 10): PASSED, cue sheet written to ..\data\cue_sheets\episode_010.xlsx
+episode  11 (Episode 11): PASSED, cue sheet written to ..\data\cue_sheets\episode_011.xlsx
+episode  12 (Episode 12): PASSED, cue sheet written to ..\data\cue_sheets\episode_012.xlsx
+episode  13 (Episode 13): PASSED, cue sheet written to ..\data\cue_sheets\episode_013.xlsx
+episode  14 (Episode 14): REFUSED
+    cue 'Dead Reckoning (cue 0055)': license not yet effective on air date
+    cue 'Low Tide Drive (cue 0056)': wrong territory
+episode  15 (Episode 15): PASSED, cue sheet written to ..\data\cue_sheets\episode_015.xlsx
+episode  16 (Episode 16): PASSED, cue sheet written to ..\data\cue_sheets\episode_016.xlsx
+episode  17 (Episode 17): PASSED, cue sheet written to ..\data\cue_sheets\episode_017.xlsx
+episode  18 (Episode 18): PASSED, cue sheet written to ..\data\cue_sheets\episode_018.xlsx
+episode  19 (Episode 19): PASSED, cue sheet written to ..\data\cue_sheets\episode_019.xlsx
+episode  20 (Episode 20): PASSED, cue sheet written to ..\data\cue_sheets\episode_020.xlsx
+episode  21 (Episode 21): REFUSED
+    cue 'Harbor Signal (cue 0083)': wrong media type
+    cue 'Chrome and Rain (cue 0084)': performing-rights organization mismatch
+episode  22 (Episode 22): PASSED, cue sheet written to ..\data\cue_sheets\episode_022.xlsx
+episode  23 (Episode 23): REFUSED
+    cue 'Chrome and Rain (cue 0091)': no license record found
+    cue 'Night Freight (cue 0092)': license expired before air date
+episode  24 (Episode 24): PASSED, cue sheet written to ..\data\cue_sheets\episode_024.xlsx
+episode  25 (Episode 25): PASSED, cue sheet written to ..\data\cue_sheets\episode_025.xlsx
+episode  26 (Episode 26): PASSED, cue sheet written to ..\data\cue_sheets\episode_026.xlsx
+episode  27 (Episode 27): PASSED, cue sheet written to ..\data\cue_sheets\episode_027.xlsx
+episode  28 (Episode 28): PASSED, cue sheet written to ..\data\cue_sheets\episode_028.xlsx
+episode  29 (Episode 29): REFUSED
+    cue 'Dead Reckoning (cue 0115)': license not yet effective on air date
+    cue 'Glass Pier (cue 0116)': wrong territory
+episode  30 (Episode 30): PASSED, cue sheet written to ..\data\cue_sheets\episode_030.xlsx
+episode  31 (Episode 31): PASSED, cue sheet written to ..\data\cue_sheets\episode_031.xlsx
+episode  32 (Episode 32): REFUSED
+    cue 'Harbor Signal (cue 0127)': wrong media type
+    cue 'Midnight Skyline (cue 0128)': performing-rights organization mismatch
+episode  33 (Episode 33): PASSED, cue sheet written to ..\data\cue_sheets\episode_033.xlsx
+episode  34 (Episode 34): PASSED, cue sheet written to ..\data\cue_sheets\episode_034.xlsx
+episode  35 (Episode 35): PASSED, cue sheet written to ..\data\cue_sheets\episode_035.xlsx
+episode  36 (Episode 36): PASSED, cue sheet written to ..\data\cue_sheets\episode_036.xlsx
+episode  37 (Episode 37): REFUSED
+    cue 'Harbor Signal (cue 0147)': no license record found
+    cue 'Harbor Signal (cue 0148)': license expired before air date
+episode  38 (Episode 38): PASSED, cue sheet written to ..\data\cue_sheets\episode_038.xlsx
+episode  39 (Episode 39): PASSED, cue sheet written to ..\data\cue_sheets\episode_039.xlsx
+episode  40 (Episode 40): REFUSED
+    cue 'Fog Line (cue 0159)': license not yet effective on air date
+    cue 'Second Shift (cue 0160)': wrong territory
+episode  41 (Episode 41): REFUSED
+    cue 'Copper Light (cue 0163)': wrong media type
+    cue 'Quiet Harbor (cue 0164)': performing-rights organization mismatch
+episode  42 (Episode 42): PASSED, cue sheet written to ..\data\cue_sheets\episode_042.xlsx
+episode  43 (Episode 43): PASSED, cue sheet written to ..\data\cue_sheets\episode_043.xlsx
+episode  44 (Episode 44): REFUSED
+    cue 'Undertow (cue 0175)': no license record found
+    cue 'Fog Line (cue 0176)': license expired before air date
+episode  45 (Episode 45): PASSED, cue sheet written to ..\data\cue_sheets\episode_045.xlsx
+episode  46 (Episode 46): PASSED, cue sheet written to ..\data\cue_sheets\episode_046.xlsx
+episode  47 (Episode 47): REFUSED
+    cue 'Dead Reckoning (cue 0187)': license not yet effective on air date
+    cue 'Fog Line (cue 0188)': wrong territory
+episode  48 (Episode 48): PASSED, cue sheet written to ..\data\cue_sheets\episode_048.xlsx
+episode  49 (Episode 49): PASSED, cue sheet written to ..\data\cue_sheets\episode_049.xlsx
+episode  50 (Episode 50): REFUSED
+    cue 'Harbor Signal (cue 0199)': wrong media type
+    cue 'Dead Reckoning (cue 0200)': performing-rights organization mismatch
+episode  51 (Episode 51): PASSED, cue sheet written to ..\data\cue_sheets\episode_051.xlsx
+episode  52 (Episode 52): PASSED, cue sheet written to ..\data\cue_sheets\episode_052.xlsx
+episode  53 (Episode 53): REFUSED
+    cue 'Harbor Signal (cue 0211)': no license record found
+    cue 'Fog Line (cue 0212)': license expired before air date
+episode  54 (Episode 54): PASSED, cue sheet written to ..\data\cue_sheets\episode_054.xlsx
+episode  55 (Episode 55): PASSED, cue sheet written to ..\data\cue_sheets\episode_055.xlsx
+episode  56 (Episode 56): PASSED, cue sheet written to ..\data\cue_sheets\episode_056.xlsx
+episode  57 (Episode 57): PASSED, cue sheet written to ..\data\cue_sheets\episode_057.xlsx
+episode  58 (Episode 58): REFUSED
+    cue 'Undertow (cue 0231)': license not yet effective on air date
+    cue 'Slow Burn Approach (cue 0232)': wrong territory
+episode  59 (Episode 59): PASSED, cue sheet written to ..\data\cue_sheets\episode_059.xlsx
+episode  60 (Episode 60): PASSED, cue sheet written to ..\data\cue_sheets\episode_060.xlsx
+
+episodes: 60 total, 40 passed, 20 refused
+seeded defects caught: 40 (expected 40)

@@ -1,0 +1,14 @@
+--- episode 1 (Episode 1), air date 2024-12-11 ---
+gate result: REFUSED
+  cue 'Night Freight (cue 0003)': no license record found
+  cue 'Slow Burn Approach (cue 0004)': license expired before air date
+wrote refusal placeholder workbook: ..\data\demo\refused_episode.xlsx
+
+--- episode 3 (Episode 3), air date 2024-12-25 ---
+gate result: PASSED
+wrote real cue sheet: ..\data\demo\passed_episode.xlsx (4 cues)
+
+--- demonstrating the strict entry point on the refused episode ---
+gate_episode_or_raise raised as expected: episode 1 (Harborline Episode 1) refused: Night Freight (cue 0003) (no license record found), Slow Burn Approach (cue 0004) (license expired before air date)
+a CLI built on this entry point would exit non-zero here
+exit code: 2

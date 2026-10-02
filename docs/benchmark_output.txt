@@ -1,0 +1,17 @@
+=== claim: 60 synthetic episodes ===
+measured: 60 episodes, 240 music events
+
+=== claim: reconciles every music event against its license record ===
+measured: 240 of 240 events reconciled, 240 of 240 agree exactly with the independent brute-force oracle (0 mismatches)
+
+=== claim: refuses to produce the cue sheet when a cue is not covered ===
+measured: 20 of 20 seeded-defect episodes refused, 40 of 40 clean episodes passed
+
+=== claim: 40 of 40 seeded clearance defects caught, naming cue and reason ===
+measured: 40 of 40 (exact cue+reason match: True)
+
+=== claim: 0 false holds across 40 clean episodes ===
+measured: 0 false holds across 40 clean episodes
+
+=== claim: exports the standard ASCAP/BMI cue sheet with 12 required fields ===
+measured: 12 named fields per cue: ['Program/Series Title', 'Episode Title/Number', 'Air Date', 'Cue Title', 'Composer', 'Publisher', 'Performing Rights Organization (PRO)', 'Usage Type', 'Duration (Timing)', 'In-Cue Timecode', 'Out-Cue Timecode', 'Composer/Publisher Share (%)']
